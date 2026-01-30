@@ -83,10 +83,13 @@ To analyze the growth, distribution, and efficiency of electric vehicle (EV) cha
 ## Power BI Dashboard Development
 
 Page 1: EV Infrastructure Overview- Map visual showing geographic distribution of stations, KPI cards for total stations, total rebate, average cost and the Year-wise growth trend
+<img width="1266" height="707" alt="image" src="https://github.com/user-attachments/assets/c69d33bd-613c-48e8-bf93-71436d2bad2e" />
 
 Page 2: Region-wise Gaps & Opportunities- County-wise station distribution, Urban vs rural comparison, Cost vs rebate analysis to detect underserved regions
+<img width="1228" height="720" alt="image" src="https://github.com/user-attachments/assets/2b9523f1-12f4-488b-8962-fe293f6cb4d4" />
 
 Page 3: Future Expansion Recommendations- Rebate efficiency ranking by county, Expansion priority identification, Data-driven recommendations for infrastructure planning
+<img width="1246" height="676" alt="image" src="https://github.com/user-attachments/assets/bbecd161-9745-49a4-8251-c5277cda8985" />
 
 ## Key Insights from Power BI Dashboard
 
